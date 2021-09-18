@@ -10,4 +10,5 @@ public class GameBackendApplication {
         SpringApplication.run(GameBackendApplication.class, args);
     }
 
+
 }
